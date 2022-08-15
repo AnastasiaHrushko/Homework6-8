@@ -17,14 +17,6 @@ public class Runner {
           System.out.println(myArrayList.removeAndReturn(6));
      }
 
-
-
-
-
-
-
-
-
      public MyArrayList getMyArrayList() {
           return myArrayList;
      }
